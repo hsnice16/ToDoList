@@ -1,6 +1,6 @@
 # Project - ToDoList Application
 
-## This time it is a Console based .
+## it is a Console based project.
 
 ## This is present in the package javaproject and It contains three classes ToDoList , Date , ValidDate.
 ##   class ToDoList and Date are present in the ToDoList.java . ValidDate class present in the ValidDate.java.
